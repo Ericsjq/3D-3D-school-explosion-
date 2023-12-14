@@ -17,7 +17,7 @@
 
 ### 1. 设定用户名
 
-首次使用，请设定用户名。例如，输入 `京麒` 作为用户名。
+找到main.exe并运行。首次使用，请设定用户名。例如，输入 `京麒` 作为用户名。
 
 ### 2. 进入游戏世界
 
@@ -93,7 +93,7 @@ Welcome to the 3D Bomb School - AI XiaoThink! This guide aims to help users easi
 
 ### 1. Set Username
 
-For the first time, please set your username. For example, enter `qi` as your username.
+Find main.exe and run it.For the first time, please set your username. For example, enter `qi` as your username.
 
 ### 2. Enter the Game World
 
